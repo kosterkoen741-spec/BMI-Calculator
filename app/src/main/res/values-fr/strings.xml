@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Calculateur IMC</string>
+    <string name="nav_calculator">Calculateur</string>
+    <string name="nav_help">Aide</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="nav_info">Info</string>
+
+    <string name="height_label">Taille (cm)</string>
+    <string name="weight_label">Poids (kg)</string>
+    <string name="calculate_btn">Calculer l\'IMC</string>
+    <string name="result_label">Votre IMC est : %.2f</string>
+    <string name="category_label">Catégorie : %s</string>
+    <string name="cat_underweight">Insuffisance pondérale</string>
+    <string name="cat_healthy">Poids normal</string>
+    <string name="cat_overweight">Surpoids</string>
+    <string name="cat_obese">Obésité</string>
+
+    <string name="settings_theme">Thème</string>
+    <string name="theme_light">Clair</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="theme_system">Système</string>
+    <string name="settings_language">Langue</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="help_intro">Le calculateur d\'IMC vous aide à comprendre rapidement si votre poids se situe dans une fourchette saine pour votre taille. L\'IMC (Indice de Masse Corporelle) est une méthode simple et largement utilisée.</string>
+    <string name="help_bmi_title">Qu\'est-ce que l\'IMC</string>
+    <string name="help_bmi_text">L\'IMC est une valeur numérique calculée en fonction de votre poids et de votre taille. Les professionnels de la santé l\'utilisent comme outil de dépistage rapide.</string>
+    <string name="help_calc_title">Comment l\'IMC est calculé</string>
+    <string name="help_calc_text">Formule :\nIMC = poids (kg) ÷ (taille en mètres)²\n\nExemple :\nSi vous pesez 70 kg et votre taille est 1,75 m\nIMC = 70 ÷ (1,75 × 1,75) = 22,9</string>
+    <string name="help_cats_title">Catégories d\'IMC</string>
+    <string name="help_cats_text">Insuffisance pondérale : moins de 18,5\nPoids normal : 18,5 – 24,9\nSurpoids : 25 – 29,9\nObésité : 30 ou plus</string>
+    <string name="help_importance_title">Pourquoi l\'IMC est important</string>
+    <string name="help_importance_text">L\'IMC fournit une indication rapide si votre poids peut augmenter le risque de maladies telles que les maladies cardiaques ou le diabète.</string>
+    <string name="help_limitations_title">Limites de l\'IMC</string>
+    <string name="help_limitations_text">L\'IMC ne mesure pas directement la graisse corporelle et ne tient pas compte de :\n\n• La masse musculaire\n• La structure osseuse\n• La composition corporelle\n• Les différences d\'âge ou de sexe\n• Le niveau de forme physique</string>
+    <string name="help_interpretation_title">Comment interpréter votre IMC</string>
+    <string name="help_interpretation_text">Utilisez l\'IMC comme une ligne directrice générale, pas comme un diagnostic médical.\n\n• Combinez-le avec d\'autres indicateurs.\n• Consultez un professionnel de la santé.</string>
+
+    <string name="info_title">Informations sur l\'application</string>
+    <string name="info_version">Version 1.0</string>
+    <string name="info_developer">Développé par Koenraad Koster</string>
+</resources>

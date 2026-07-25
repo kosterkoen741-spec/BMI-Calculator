@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_settings">Instellingen</string>
+    <string name="nav_info">Info</string>
+
+    <string name="height_label">Lengte (cm)</string>
+    <string name="weight_label">Gewicht (kg)</string>
+    <string name="calculate_btn">Bereken BMI</string>
+    <string name="result_label">Jouw BMI is: %.2f</string>
+    <string name="category_label">Categorie: %s</string>
+    <string name="cat_underweight">Ondergewicht</string>
+    <string name="cat_healthy">Gezond gewicht</string>
+    <string name="cat_overweight">Overgewicht</string>
+    <string name="cat_obese">Obesitas</string>
+
+    <string name="settings_theme">Thema</string>
+    <string name="theme_light">Licht</string>
+    <string name="theme_dark">Donker</string>
+    <string name="theme_system">Systeem</string>
+    <string name="settings_language">Taal</string>
+    <string name="cancel">Annuleren</string>
+
+    <string name="help_intro">De BMI Calculator helpt u snel te begrijpen of uw gewicht binnen een gezonde marge valt voor uw lengte. BMI (Body Mass Index) is een eenvoudige en veelgebruikte methode om gewichtscategorieën te schatten en een beter gezondheidsbewustzijn te ondersteunen.</string>
+    <string name="help_bmi_title">Wat is BMI</string>
+    <string name="help_bmi_text">De BMI is een numerieke waarde die wordt berekend op basis van uw gewicht en lengte. Zorgprofessionals gebruiken het als een snel screeningsinstrument om potentiële gewichtsgerelateerde gezondheidsrisico’s te identificeren.</string>
+    <string name="help_calc_title">Hoe de BMI wordt berekend</string>
+    <string name="help_calc_text">Formule:\nBMI = gewicht (kg) ÷ (lengte in meters)²\n\nVoorbeeld:\nAls u 70 kg weegt en uw lengte is 1,75 m\nBMI = 70 ÷ (1.75 × 1.75) = 22.9</string>
+    <string name="help_cats_title">BMI-categorieën</string>
+    <string name="help_cats_text">Ondergewicht: minder dan 18,5\nNormaal gewicht: 18,5 – 24,9\nOvergewicht: 25 – 29,9\nObesitas: 30 of hoger</string>
+    <string name="help_importance_title">Waarom de BMI belangrijk is</string>
+    <string name="help_importance_text">De BMI geeft een snelle indicatie of uw gewicht het risico op aandoeningen zoals hartaandoeningen, diabetes of een hoge bloeddruk kan verhogen. Het is een nuttig uitgangspunt om inzicht te krijgen in uw algemene gezondheid.</string>
+    <string name="help_limitations_title">Beperkingen van de BMI</string>
+    <string name="help_limitations_text">De BMI meet het lichaamsvet niet direct en houdt geen rekening met:\n\n• Spiermassa\n• Botstructuur\n• Lichaamssamenstelling\n• Leeftijds- of geslachtsverschillen\n• Conditieniveau\n\nAtleten met veel spiermassa kunnen bijvoorbeeld een hoge BMI hebben, zelfs als ze een laag vetpercentage hebben.</string>
+    <string name="help_interpretation_title">Hoe u uw BMI moet interpreteren</string>
+    <string name="help_interpretation_text">Gebruik de BMI als een algemene richtlijn, niet als een medische diagnose.\n\n• Combineer het met andere indicatoren zoals de middelomtrek, levensstijl en mate van activiteit.\n• Raadpleeg een zorgprofessional voor een volledige beoordeling.\n\nDe BMI is een nuttig hulpmiddel om inzicht te krijgen in uw gewichtsstatus, maar moet altijd in de juiste context worden bekeken. Uw gezondheid wordt door veel meer factoren beïnvloed dan alleen de BMI.</string>
+
+    <string name="info_title">App Informatie</string>
+    <string name="info_version">Versie 1.0</string>
+    <string name="info_developer">Ontwikkeld door Koenraad Koster</string>
+</resources>

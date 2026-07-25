@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Outer Circle -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M50,50m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+    <!-- Inner Circle -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M50,50m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <!-- Modern Weighing Scale Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30h40v40h-40z" />
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M34,34h32v32h-32z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M38,38h24v12h-24z" />
+    <!-- Needle -->
+    <path
+        android:strokeColor="#FF5252"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M50,50 L60,40" />
+    <!-- Measuring Tape -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M22,72h56v10h-56z" />
+    <path
+        android:strokeColor="#FBC02D"
+        android:strokeWidth="1.2"
+        android:pathData="M32,72v5 M42,72v5 M52,72v5 M62,72v5 M72,72v5" />
+</vector>

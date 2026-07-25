@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BMI Rechner</string>
+    <string name="nav_calculator">Rechner</string>
+    <string name="nav_help">Hilfe</string>
+    <string name="nav_settings">Einstellungen</string>
+    <string name="nav_info">Info</string>
+
+    <string name="height_label">Größe (cm)</string>
+    <string name="weight_label">Gewicht (kg)</string>
+    <string name="calculate_btn">BMI Berechnen</string>
+    <string name="result_label">Ihr BMI ist: %.2f</string>
+    <string name="category_label">Kategorie: %s</string>
+    <string name="cat_underweight">Untergewicht</string>
+    <string name="cat_healthy">Normalgewicht</string>
+    <string name="cat_overweight">Übergewicht</string>
+    <string name="cat_obese">Adipositas</string>
+
+    <string name="settings_theme">Thema</string>
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="theme_system">System</string>
+    <string name="settings_language">Sprache</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="help_intro">Der BMI-Rechner hilft Ihnen schnell zu verstehen, ob Ihr Gewicht in einem gesunden Bereich für Ihre Größe liegt. Der BMI (Body Mass Index) ist eine einfache und weit verbreitete Methode zur Schätzung von Gewichtskategorien.</string>
+    <string name="help_bmi_title">Was ist der BMI</string>
+    <string name="help_bmi_text">Der BMI ist ein numerischer Wert, der auf der Grundlage Ihres Gewichts und Ihrer Größe berechnet wird. Medizinisches Fachpersonal verwendet ihn als schnelles Screening-Instrument.</string>
+    <string name="help_calc_title">Wie der BMI berechnet wird</string>
+    <string name="help_calc_text">Formel:\nBMI = Gewicht (kg) ÷ (Größe in Metern)²\n\nBeispiel:\nWenn Sie 70 kg wiegen und Ihre Größe 1,75 m beträgt\nBMI = 70 ÷ (1,75 × 1,75) = 22,9</string>
+    <string name="help_cats_title">BMI-Kategorien</string>
+    <string name="help_cats_text">Untergewicht: weniger als 18,5\nNormalgewicht: 18,5 – 24,9\nÜbergewicht: 25 – 29,9\nAdipositas: 30 oder höher</string>
+    <string name="help_importance_title">Warum der BMI wichtig ist</string>
+    <string name="help_importance_text">Der BMI gibt einen schnellen Hinweis darauf, ob Ihr Gewicht das Risiko für Erkrankungen wie Herzkrankheiten oder Diabetes erhöhen kann.</string>
+    <string name="help_limitations_title">Einschränkungen des BMI</string>
+    <string name="help_limitations_text">Der BMI misst das Körperfett nicht direkt und berücksichtigt nicht:\n\n• Muskelmasse\n• Knochenbau\n• Körperzusammensetzung\n• Alter oder Geschlecht\n• Fitnesszustand</string>
+    <string name="help_interpretation_title">Wie Sie Ihren BMI interpretieren</string>
+    <string name="help_interpretation_text">Verwenden Sie den BMI als allgemeinen Richtwert, nicht als medizinische Diagnose.\n\n• Kombinieren Sie ihn mit anderen Indikatoren.\n• Konsultieren Sie einen Arzt für eine vollständige Beurteilung.</string>
+
+    <string name="info_title">App-Informationen</string>
+    <string name="info_version">Version 1.0</string>
+    <string name="info_developer">Entwickelt von Koenraad Koster</string>
+</resources>
