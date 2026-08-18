@@ -1,11 +1,9 @@
-# BMI Calculator 📊
+# BMI Calculator
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
 [![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.1.0-orange.svg)](https://github.com/kosterkoen741-spec/BMI-Calculator/releases)
-
-**BMI Calculator** helps you quickly understand whether your weight falls within a healthy range for your height. BMI (Body Mass Index) is a simple and widely used method to estimate weight categories and support better health awareness.
 
 ---
 
