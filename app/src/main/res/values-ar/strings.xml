@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">حاسبة مؤشر كتلة الجسم</string>
+    <string name="nav_calculator">الحاسبة</string>
+    <string name="nav_help">المساعدة</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_info">معلومات</string>
+
+    <string name="height_label">الطول (سم)</string>
+    <string name="weight_label">الوزن (كجم)</string>
+    <string name="calculate_btn">احسب مؤشر كتلة الجسم</string>
+    <string name="result_label">مؤشر كتلة الجسم الخاص بك هو: %.2f</string>
+    <string name="category_label">الفئة: %s</string>
+    <string name="cat_underweight">نقص الوزن</string>
+    <string name="cat_healthy">وزن طبيعي</string>
+    <string name="cat_overweight">زيادة الوزن</string>
+    <string name="cat_obese">سمنة</string>
+
+    <string name="settings_theme">المظهر</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_system">النظام</string>
+    <string name="settings_language">اللغة</string>
+    <string name="cancel">إلغاء</string>
+
+    <string name="help_intro">تساعدك حاسبة مؤشر كتلة الجسم على فهم ما إذا كان وزنك يقع ضمن نطاق صحي بالنسبة لطولك بسرعة. مؤشر كتلة الجسم (BMI) هو طريقة بسيطة ومستخدمة على نطاق واسع لتقدير فئات الوزن ودعم الوعي الصحي بشكل أفضل.</string>
+    <string name="help_bmi_title">ما هو مؤشر كتلة الجسم</string>
+    <string name="help_bmi_text">مؤشر كتلة الجسم هو قيمة عددية يتم حسابها بناءً على وزنك وطولك. يستخدمه متخصصو الرعاية الصحية كأداة فحص سريعة لتحديد المخاطر الصحية المحتملة المرتبطة بالوزن.</string>
+    <string name="help_calc_title">كيف يتم حساب مؤشر كتلة الجسم</string>
+    <string name="help_calc_text">الصيغة:\nمؤشر كتلة الجسم = الوزن (كجم) ÷ (الطول بالمتر)²\n\nمثال:\nإذا كان وزنك 70 كجم وطولك 1.75 متر\nمؤشر كتلة الجسم = 70 ÷ (1.75 × 1.75) = 22.9</string>
+    <string name="help_cats_title">فئات مؤشر كتلة الجسم</string>
+    <string name="help_cats_text">نقص الوزن: أقل من 18.5\nوزن طبيعي: 18.5 – 24.9\nزيادة الوزن: 25 – 29.9\nالسمنة: 30 أو أعلى</string>
+    <string name="help_importance_title">لماذا يعتبر مؤشر كتلة الجسم مهمًا</string>
+    <string name="help_importance_text">يوفر مؤشر كتلة الجسم إشارة سريعة عما إذا كان وزنك قد يزيد من خطر الإصابة بحالات مثل أمراض القلب أو السكري أو ارتفاع ضغط الدم. إنه نقطة انطلاق مفيدة لفهم صحتك العامة.</string>
+    <string name="help_limitations_title">قيود مؤشر كتلة الجسم</string>
+    <string name="help_limitations_text">لا يقيس مؤشر كتلة الجسم دهون الجسم بشكل مباشر ولا يأخذ في الاعتبار:\n\n• الكتلة العضلية\n• بنية العظام\n• تكوين الجسم\n• الاختلافات في العمر أو الجنس\n• مستوى اللياقة البدنية\n\nعلى سبيل المثال، قد يكون لدى الرياضيين الذين لديهم الكثير من الكتلة العضلية مؤشر كتلة جسم مرتفع، حتى لو كان لديهم نسبة منخفضة من دهون الجسم.</string>
+    <string name="help_interpretation_title">كيفية تفسير مؤشر كتلة الجسم الخاص بك</string>
+    <string name="help_interpretation_text">استخدم مؤشر كتلة الجسم كدليل عام، وليس كتشخيص طبي.\n\n• اجمعه مع مؤشرات أخرى مثل محيط الخصر ونمط الحياة ومستوى النشاط.\n• استشر أخصائي الرعاية الصحية لإجراء تقييم كامل.\n\nمؤشر كتلة الجسم هو أداة مفيدة للحصول على نظرة ثاقبة لحالة وزنك ولكن يجب دائمًا النظر إليه في السياق المناسب. تتأثر صحتك بعوامل أكثر بكثير من مجرد مؤشر كتلة الجسم.</string>
+
+    <string name="info_title">معلومات التطبيق</string>
+    <string name="info_version">الإصدار 1.0</string>
+    <string name="info_developer">تم التطوير بواسطة Koenraad Koster</string>
+</resources>

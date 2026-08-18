@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BMI 计算器</string>
+    <string name="nav_calculator">计算器</string>
+    <string name="nav_help">帮助</string>
+    <string name="nav_settings">设置</string>
+    <string name="nav_info">信息</string>
+
+    <string name="height_label">身高 (cm)</string>
+    <string name="weight_label">体重 (kg)</string>
+    <string name="calculate_btn">计算 BMI</string>
+    <string name="result_label">您的 BMI 为：%.2f</string>
+    <string name="category_label">类别：%s</string>
+    <string name="cat_underweight">体重过轻</string>
+    <string name="cat_healthy">体重正常</string>
+    <string name="cat_overweight">超重</string>
+    <string name="cat_obese">肥胖</string>
+
+    <string name="settings_theme">主题</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_system">系统默认</string>
+    <string name="settings_language">语言</string>
+    <string name="cancel">取消</string>
+
+    <string name="help_intro">BMI 计算器可帮助您快速了解您的体重是否处于身高的健康范围内。BMI（身体质量指数）是一种简单且广泛使用的估算体重类别并提高健康意识的方法。</string>
+    <string name="help_bmi_title">什么是 BMI</string>
+    <string name="help_bmi_text">BMI 是根据您的体重和身高计算出的数值。医疗保健专业人员将其作为一种快速筛查工具，以识别潜在的体重相关健康风险。</string>
+    <string name="help_calc_title">BMI 是如何计算的</string>
+    <string name="help_calc_text">公式：\nBMI = 体重 (kg) ÷ (身高，单位为米)²\n\n示例：\n如果您的体重为 70 kg，身高为 1.75 m\nBMI = 70 ÷ (1.75 × 1.75) = 22.9</string>
+    <string name="help_cats_title">BMI 类别</string>
+    <string name="help_cats_text">体重过轻：小于 18.5\n体重正常：18.5 – 24.9\n超重：25 – 29.9\n肥胖：30 或更高</string>
+    <string name="help_importance_title">为什么 BMI 很重要</string>
+    <string name="help_importance_text">BMI 可以快速指示您的体重是否会增加患心脏病、糖尿病或高血压等疾病的风险。它是了解您整体健康状况的一个有用的起点。</string>
+    <string name="help_limitations_title">BMI 的局限性</string>
+    <string name="help_limitations_text">BMI 不直接测量体脂，也不考虑：\n\n• 肌肉量\n• 骨骼结构\n• 身体成分\n• 年龄或性别差异\n• 健身水平\n\n例如，肌肉量很大的运动员即使体脂百分比较低，其 BMI 也可能很高。</string>
+    <string name="help_interpretation_title">如何解读您的 BMI</string>
+    <string name="help_interpretation_text">将 BMI 作为一般指导，而非医学诊断。\n\n• 将其与腰围、生活方式和活动水平等其他指标结合使用。\n• 咨询医疗保健专业人员进行全面评估。\n\nBMI 是深入了解体重状况的有用工具，但应始终在适当的背景下查看。您的健康受到的影响因素远不止 BMI。</string>
+
+    <string name="info_title">应用信息</string>
+    <string name="info_version">版本 1.0</string>
+    <string name="info_developer">由 Koenraad Koster 开发</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BMI कैलकुलेटर</string>
+    <string name="nav_calculator">कैलकुलेटर</string>
+    <string name="nav_help">सहायता</string>
+    <string name="nav_settings">सेटिग्स</string>
+    <string name="nav_info">जानकारी</string>
+
+    <string name="height_label">ऊँचाई (सेमी)</string>
+    <string name="weight_label">वजन (किग्रा)</string>
+    <string name="calculate_btn">BMI की गणना करें</string>
+    <string name="result_label">आपका BMI है: %.2f</string>
+    <string name="category_label">श्रेणी: %s</string>
+    <string name="cat_underweight">कम वजन</string>
+    <string name="cat_healthy">सामान्य वजन</string>
+    <string name="cat_overweight">अधिक वजन</string>
+    <string name="cat_obese">मोटापे से ग्रस्त</string>
+
+    <string name="settings_theme">थीम</string>
+    <string name="theme_light">लाइट</string>
+    <string name="theme_dark">डार्क</string>
+    <string name="theme_system">सिस्टम</string>
+    <string name="settings_language">भाषा</string>
+    <string name="cancel">रद्द करें</string>
+
+    <string name="help_intro">BMI कैलकुलेटर आपको यह जल्दी समझने में मदद करता है कि क्या आपका वजन आपकी ऊंचाई के हिसाब से स्वस्थ सीमा के भीतर है। BMI (बॉडी मास इंडेक्स) वजन श्रेणियों का अनुमान लगाने और बेहतर स्वास्थ्य जागरूकता का समर्थन करने के लिए एक सरल और व्यापक रूप से उपयोग की जाने वाली विधि है।</string>
+    <string name="help_bmi_title">BMI क्या है</string>
+    <string name="help_bmi_text">BMI आपके वजन और ऊंचाई के आधार पर गणना की गई एक संख्यात्मक मान है। स्वास्थ्य सेवा पेशेवर वजन से संबंधित संभावित स्वास्थ्य जोखिमों की पहचान करने के लिए एक त्वरित स्क्रीनिंग टूल के रूप में इसका उपयोग करते हैं।</string>
+    <string name="help_calc_title">BMI की गणना कैसे की जाती है</string>
+    <string name="help_calc_text">सूत्र:\nBMI = वजन (किग्रा) ÷ (मीटर में ऊंचाई)²\n\nउदाहरण:\nयदि आपका वजन 70 किग्रा है और आपकी ऊंचाई 1.75 मीटर है\nBMI = 70 ÷ (1.75 × 1.75) = 22.9</string>
+    <string name="help_cats_title">BMI श्रेणियां</string>
+    <string name="help_cats_text">कम वजन: 18.5 से कम\nसामान्य वजन: 18.5 – 24.9\nअधिक वजन: 25 – 29.9\nमोटापा: 30 या उससे अधिक</string>
+    <string name="help_importance_title">BMI क्यों महत्वपूर्ण है</string>
+    <string name="help_importance_text">BMI एक त्वरित संकेत प्रदान करता है कि क्या आपका वजन हृदय रोग, मधुमेह, या उच्च रक्तचाप जैसी स्थितियों के जोखिम को बढ़ा सकता है। यह आपके समग्र स्वास्थ्य को समझने के लिए एक उपयोगी शुरुआती बिंदु है।</string>
+    <string name="help_limitations_title">BMI की सीमाएं</string>
+    <string name="help_limitations_text">BMI सीधे शरीर की वसा को नहीं मापता है और इसमें निम्नलिखित बातों का ध्यान नहीं रखा जाता है:\n\n• मांसपेशियों का द्रव्यमान\n• हड्डी की संरचना\n• शरीर की संरचना\n• उम्र या लिंग का अंतर\n• फिटनेस का स्तर\n\nउदाहरण के लिए, बहुत अधिक मांसपेशियों वाले एथलीटों का BMI उच्च हो सकता है, भले ही उनके शरीर में वसा का प्रतिशत कम हो।</string>
+    <string name="help_interpretation_title">अपने BMI की व्याख्या कैसे करें</string>
+    <string name="help_interpretation_text">BMI का उपयोग एक सामान्य दिशानिर्देश के रूप में करें, चिकित्सा निदान के रूप में नहीं।\n\n• इसे कमर की परिधि, जीवनशैली और गतिविधि स्तर जैसे अन्य संकेतकों के साथ जोड़ें।\n• पूर्ण मूल्यांकन के लिए स्वास्थ्य सेवा पेशेवर से परामर्श करें।\n\nBMI आपकी वजन स्थिति के बारे में जानकारी प्राप्त करने के लिए एक उपयोगी उपकरण है, लेकिन इसे हमेशा उचित संदर्भ में देखा जाना चाहिए। आपका स्वास्थ्य केवल BMI की तुलना में कई अधिक कारकों से प्रभावित होता।</string>
+
+    <string name="info_title">ऐप की जानकारी</string>
+    <string name="info_version">संस्करण 1.0</string>
+    <string name="info_developer">Koenraad Koster द्वारा विकसित</string>
+</resources>

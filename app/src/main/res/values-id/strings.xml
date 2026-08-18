@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="nav_calculator">Kalkulator</string>
+    <string name="nav_help">Bantuan</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_info">Info</string>
+
+    <string name="height_label">Tinggi (cm)</string>
+    <string name="weight_label">Berat (kg)</string>
+    <string name="calculate_btn">Hitung BMI</string>
+    <string name="result_label">BMI Anda adalah: %.2f</string>
+    <string name="category_label">Kategori: %s</string>
+    <string name="cat_underweight">Kurang berat badan</string>
+    <string name="cat_healthy">Berat badan normal</string>
+    <string name="cat_overweight">Kelebihan berat badan</string>
+    <string name="cat_obese">Obesitas</string>
+
+    <string name="settings_theme">Tema</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_system">Sistem</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="cancel">Batal</string>
+
+    <string name="help_intro">Kalkulator BMI membantu Anda memahami dengan cepat apakah berat badan Anda berada dalam kisaran sehat untuk tinggi badan Anda. BMI (Indeks Massa Tubuh) adalah metode sederhana dan banyak digunakan untuk memperkirakan kategori berat badan dan mendukung kesadaran kesehatan yang lebih baik.</string>
+    <string name="help_bmi_title">Apa itu BMI</string>
+    <string name="help_bmi_text">BMI adalah nilai numerik yang dihitung berdasarkan berat dan tinggi badan Anda. Profesional kesehatan menggunakannya sebagai alat skrining cepat untuk mengidentifikasi potensi risiko kesehatan terkait berat badan.</string>
+    <string name="help_calc_title">Bagaimana BMI dihitung</string>
+    <string name="help_calc_text">Rumus:\nBMI = berat (kg) ÷ (tinggi dalam meter)²\n\nContoh:\nJika berat badan Anda 70 kg dan tinggi badan Anda 1,75 m\nBMI = 70 ÷ (1,75 × 1,75) = 22,9</string>
+    <string name="help_cats_title">Kategori BMI</string>
+    <string name="help_cats_text">Kurang berat badan: kurang dari 18,5\nBerat badan normal: 18,5 – 24,9\nKelebihan berat badan: 25 – 29,9\nObesitas: 30 atau lebih tinggi</string>
+    <string name="help_importance_title">Mengapa BMI penting</string>
+    <string name="help_importance_text">BMI memberikan indikasi cepat apakah berat badan Anda dapat meningkatkan risiko kondisi seperti penyakit jantung, diabetes, atau tekanan darah tinggi. Ini adalah titik awal yang berguna untuk memahami kesehatan Anda secara keseluruhan.</string>
+    <string name="help_limitations_title">Batasan BMI</string>
+    <string name="help_limitations_text">BMI tidak mengukur lemak tubuh secara langsung dan tidak memperhitungkan:\n\n• Massa otot\n• Struktur tulang\n• Komposisi tubuh\n• Perbedaan usia atau jenis kelamin\n• Tingkat kebugaran\n\nSebagai contoh, atlet dengan banyak massa otot mungkin memiliki BMI yang tinggi, meskipun mereka memiliki persentase lemak tubuh yang rendah.</string>
+    <string name="help_interpretation_title">Cara menafsirkan BMI Anda</string>
+    <string name="help_interpretation_text">Gunkan BMI sebagai panduan umum, bukan diagnosis medis.\n\n• Gabungkan dengan indikator lain seperti lingkar pinggang, gaya hidup, dan tingkat aktivitas.\n• Konsultasikan dengan profesional kesehatan untuk penilaian penuh.\n\nBMI adalah alat yang berguna untuk mendapatkan wawasan tentang status berat badan Anda, tetapi harus selalu dilihat dalam konteks yang tepat. Kesehatan Anda dipengaruhi oleh lebih banyak faktor daripada sekadar BMI.</string>
+
+    <string name="info_title">Informasi Aplikasi</string>
+    <string name="info_version">Versi 1.0</string>
+    <string name="info_developer">Dikembangkan oleh Koenraad Koster</string>
+</resources>

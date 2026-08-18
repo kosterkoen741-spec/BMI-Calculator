@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BMI ক্যালকুলেটর</string>
+    <string name="nav_calculator">ক্যালকুলেটর</string>
+    <string name="nav_help">সাহায্য</string>
+    <string name="nav_settings">সেটিংস</string>
+    <string name="nav_info">তথ্য</string>
+
+    <string name="height_label">উচ্চতা (সেমি)</string>
+    <string name="weight_label">ওজন (কেজি)</string>
+    <string name="calculate_btn">BMI গণনা করুন</string>
+    <string name="result_label">আপনার BMI হল: %.2f</string>
+    <string name="category_label">বিভাগ: %s</string>
+    <string name="cat_underweight">কম ওজন</string>
+    <string name="cat_healthy">স্বাভাবিক ওজন</string>
+    <string name="cat_overweight">অতিরিক্ত ওজন</string>
+    <string name="cat_obese">স্থূলকায়</string>
+
+    <string name="settings_theme">থিম</string>
+    <string name="theme_light">হালকা</string>
+    <string name="theme_dark">গাঢ়</string>
+    <string name="theme_system">সিস্টেম</string>
+    <string name="settings_language">ভাষা</string>
+    <string name="cancel">বাতিল</string>
+
+    <string name="help_intro">BMI ক্যালকুলেটর আপনাকে দ্রুত বুঝতে সাহায্য করে যে আপনার ওজন আপনার উচ্চতার জন্য স্বাস্থ্যকর সীমার মধ্যে আছে কিনা। BMI (বডি মাস ইনডেক্স) হল ওজন বিভাগ অনুমান করার এবং উন্নত স্বাস্থ্য সচেতনতা সমর্থন করার একটি সহজ এবং ব্যাপকভাবে ব্যবহৃত পদ্ধতি।</string>
+    <string name="help_bmi_title">BMI কি</string>
+    <string name="help_bmi_text">BMI হল আপনার ওজন এবং উচ্চতার উপর ভিত্তি করে গণনা করা একটি সংখ্যাসূচক মান। স্বাস্থ্যসেবা পেশাদাররা ওজন-সংক্রান্ত সম্ভাব্য স্বাস্থ্য ঝুঁকি শনাক্ত করতে একটি দ্রুত স্ক্রীনিং সরঞ্জাম হিসাবে এটি ব্যবহার করেন।</string>
+    <string name="help_calc_title">BMI কিভাবে গণনা করা হয়</string>
+    <string name="help_calc_text">সূত্র:\nBMI = ওজন (কেজি) ÷ (মিটারে উচ্চতা)²\n\nউদাহরণ:\nযদি আপনার ওজন ৭০ কেজি হয় এবং আপনার উচ্চতা ১.৭৫ মিটার হয়\nBMI = ৭০ ÷ (১.৭৫ × ১.৭৫) = ২২.৯</string>
+    <string name="help_cats_title">BMI বিভাগসমূহ</string>
+    <string name="help_cats_text">কম ওজন: ১৮.৫ এর কম\nস্বাভাবিক ওজন: ১৮.৫ – ২৪.৯\nঅতিরিক্ত ওজন: ২৫ – ২৯.৯\nস্থূলতা: ৩০ বা তার বেশি</string>
+    <string name="help_importance_title">কেন BMI গুরুত্বপূর্ণ</string>
+    <string name="help_importance_text">BMI একটি দ্রুত ইঙ্গিত দেয় যে আপনার ওজন হৃদরোগ, ডায়াবেটিস বা উচ্চ রক্তচাপের মতো অবস্থার ঝুঁকি বাড়াতে পারে কিনা। এটি আপনার সামগ্রিক স্বাস্থ্য বোঝার জন্য একটি দরকারী সূচনা পয়েন্ট।</string>
+    <string name="help_limitations_title">BMI-এর সীমাবদ্ধতা</string>
+    <string name="help_limitations_text">BMI সরাসরি শরীরের চর্বি পরিমাপ করে না এবং নিম্নলিখিত বিষয়গুলি বিবেচনা করে না:\n\n• পেশী ভর\n• হাড়ের গঠন\n• শরীরের গঠন\n• বয়স বা লিঙ্গ পার্থক্য\n• ফিটনেস স্তর\n\nউদাহরণস্বরূপ, প্রচুর পেশী ভরের ক্রীড়াবিদদের BMI উচ্চ হতে পারে, এমনকি তাদের শরীরের চর্বি শতাংশ কম হলেও।</string>
+    <string name="help_interpretation_title">আপনার BMI কিভাবে ব্যাখ্যা করবেন</string>
+    <string name="help_interpretation_text">BMI-কে একটি সাধারণ নির্দেশিকা হিসেবে ব্যবহার করুন, চিকিৎসা নির্ণয় হিসেবে নয়।\n\n• কোমর পরিধি, জীবনধারা এবং কার্যকলাপের স্তরের মতো অন্যান্য সূচকগুলির সাথে এটি একত্রিত করুন।\n• পূর্ণ মূল্যায়নের জন্য একজন স্বাস্থ্যসেবা পেশাদারের সাথে পরামর্শ করুন।\n\nBMI আপনার ওজনের অবস্থা সম্পর্কে ধারণা পাওয়ার জন্য একটি দরকারী সরঞ্জাম কিন্তু এটি সর্বদা সঠিক প্রেক্ষাপটে দেখা উচিত। আপনার স্বাস্থ্য শুধুমাত্র BMI এর চেয়ে আরও অনেক কারণ দ্বারা প্রভাবিত হয়।</string>
+
+    <string name="info_title">অ্যাপের তথ্য</string>
+    <string name="info_version">সংস্করণ ১.০</string>
+    <string name="info_developer">Koenraad Koster দ্বারা তৈরি</string>
+</resources>

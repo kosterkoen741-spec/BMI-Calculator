@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Калькулятор ИМТ</string>
+    <string name="nav_calculator">Калькулятор</string>
+    <string name="nav_help">Помощь</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_info">Инфо</string>
+
+    <string name="height_label">Рост (см)</string>
+    <string name="weight_label">Вес (кг)</string>
+    <string name="calculate_btn">Рассчитать ИМТ</string>
+    <string name="result_label">Ваш ИМТ: %.2f</string>
+    <string name="category_label">Категория: %s</string>
+    <string name="cat_underweight">Недостаточный вес</string>
+    <string name="cat_healthy">Нормальный вес</string>
+    <string name="cat_overweight">Избыточный вес</string>
+    <string name="cat_obese">Ожирение</string>
+
+    <string name="settings_theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme_system">Системная</string>
+    <string name="settings_language">Язык</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="help_intro">Калькулятор ИМТ поможет вам быстро понять, находится ли ваш вес в пределах нормы для вашего роста. ИМТ (индекс массы тела) — это простой и широко используемый метод оценки весовых категорий и повышения осведомленности о здоровье.</string>
+    <string name="help_bmi_title">Что такое ИМТ</string>
+    <string name="help_bmi_text">ИМТ — это числовое значение, рассчитываемое на основе вашего веса и роста. Медицинские работники используют его как инструмент быстрого скрининга для выявления потенциальных рисков для здоровья, связанных с весом.</string>
+    <string name="help_calc_title">Как рассчитывается ИМТ</string>
+    <string name="help_calc_text">Формула:\nИМТ = вес (кг) ÷ (рост в метрах)²\n\nПример:\nЕсли ваш вес 70 кг, а рост 1,75 м\nИМТ = 70 ÷ (1,75 × 1,75) = 22,9</string>
+    <string name="help_cats_title">Категории ИМТ</string>
+    <string name="help_cats_text">Недостаточный вес: менее 18,5\nНормальный вес: 18,5 – 24,9\nИзбыточный вес: 25 – 29,9\nОжирение: 30 или выше</string>
+    <string name="help_importance_title">Почему ИМТ важен</string>
+    <string name="help_importance_text">ИМТ дает быстрое представление о том, может ли ваш вес повысить риск таких состояний, как болезни сердца, диабет или высокое кровяное давление. Это полезная отправная точка для понимания общего состояния вашего здоровья.</string>
+    <string name="help_limitations_title">Ограничения ИМТ</string>
+    <string name="help_limitations_text">ИМТ не измеряет жировые отложения напрямую и не учитывает:\n\n• Мышечную массу\n• Структуру костей\n• Состав тела\n• Различия в возрасте или поле\n• Уровень физической подготовки\n\nНапример, у спортсменов с большой мышечной массой может быть высокий ИМТ, даже если у них низкий процент жира в организме.</string>
+    <string name="help_interpretation_title">Как интерпретировать ваш ИМТ</string>
+    <string name="help_interpretation_text">Используйте ИМТ как общее руководство, а не как медицинский диагноз.\n\n• Сочетайте его с другими показателями, такими как окружность талии, образ жизни и уровень активности.\n• Проконсультируйтесь с медицинским работником для полной оценки.\n\nИМТ — полезный инструмент для получения представления о вашем весе, но его всегда следует рассматривать в надлежащем контексте. На ваше здоровье влияет гораздо больше факторов, чем просто ИМТ.</string>
+
+    <string name="info_title">Информация о приложении</string>
+    <string name="info_version">Версия 1.0</string>
+    <string name="info_developer">Разработано Koenraad Koster</string>
+</resources>

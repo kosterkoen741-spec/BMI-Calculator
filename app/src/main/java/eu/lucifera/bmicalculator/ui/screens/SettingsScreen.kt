@@ -1,6 +1,8 @@
 package eu.lucifera.bmicalculator.ui.screens
 
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
@@ -27,7 +29,14 @@ fun SettingsScreen(
         "nl" to "Nederlands",
         "de" to "Deutsch",
         "fr" to "Français",
-        "es" to "Español"
+        "es" to "Español",
+        "pt" to "Português",
+        "id" to "Bahasa Indonesia",
+        "ar" to "العربية",
+        "ru" to "Русский",
+        "hi" to "हिन्दी",
+        "bn" to "বাংলা",
+        "zh" to "中文 (简体)"
     )
     val currentLanguageLabel = languages.find { it.first == currentLanguage }?.second ?: "English"
 
@@ -82,7 +91,11 @@ fun SettingsScreen(
             onDismissRequest = { showLanguageDialog = false },
             title = { Text(stringResource(R.string.settings_language)) },
             text = {
-                Column(modifier = Modifier.selectableGroup()) {
+                Column(
+                    modifier = Modifier
+                        .selectableGroup()
+                        .verticalScroll(rememberScrollState())
+                ) {
                     languages.forEach { (code, label) ->
                         Row(
                             Modifier
